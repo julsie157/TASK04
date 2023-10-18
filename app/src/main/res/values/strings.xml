@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TASK04</string>
+    <string name="nombre">Dime tu nombre</string>
+    <string name="aceptar">Validar</string>
+</resources>
